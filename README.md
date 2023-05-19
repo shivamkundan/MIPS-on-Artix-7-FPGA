@@ -59,8 +59,8 @@ Used Xilinx Vivado Design Suite.
 <p align="center">
   <img src="assets/synthesis_util_report.png" 
   alt="Synthesis Report" 
-  width="60%" 
-  height="60%"/>
+  width="90%" 
+  height="90%"/>
 </p>
 
 
