@@ -39,7 +39,7 @@ Used Xilinx Vivado Design Suite.
 
 ### Memory Access Module
 <p align="center">
-  <img src="assets/memory.png" 
+  <img src="assets/mem.png" 
   alt="Memory module" 
   width="100%" 
   height="100%"/>
