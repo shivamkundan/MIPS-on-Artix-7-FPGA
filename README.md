@@ -1,6 +1,6 @@
 # MIPS Processor Implementation on FPGA
 
-Implemention of my [MIPS processor project](https://github.com/shivamkundan/MIPS_CPU) on a Xilinx Artix-7 FPGA emedded on a Digilent Basys 3 development board.
+Implemention of my [MIPS processor project](https://github.com/shivamkundan/MIPS_CPU) (simple 32-bit, 5-pipeline-stage MIPS CPU which can execute basic arithmetic and logical instructions) on a Xilinx Artix-7 FPGA emedded on a Digilent Basys 3 development board.
 
 ## Schematics
 
