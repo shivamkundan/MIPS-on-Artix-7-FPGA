@@ -15,7 +15,7 @@ Used Xilinx Vivado Design Suite.
 
 ### Instruction Fetch Module
 <p align="center">
-  <img src="assets/Top.png" 
+  <img src="assets/IF_top_module.png" 
   alt="Top module" 
   width="100%" 
   height="100%"/>
