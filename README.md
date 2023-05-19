@@ -16,10 +16,43 @@ Used Xilinx Vivado Design Suite.
 ### Instruction Fetch Module
 <p align="center">
   <img src="assets/IF_top_module.png" 
-  alt="Top module" 
+  alt="IF module" 
   width="100%" 
   height="100%"/>
 </p>
+
+### Decode Module
+<p align="center">
+  <img src="assets/decode.png" 
+  alt="Decode module" 
+  width="100%" 
+  height="100%"/>
+</p>
+
+### Execute Module
+<p align="center">
+  <img src="assets/execute.png" 
+  alt="Execute module" 
+  width="100%" 
+  height="100%"/>
+</p>
+
+### Memory Access Module
+<p align="center">
+  <img src="assets/memory.png" 
+  alt="Memory module" 
+  width="100%" 
+  height="100%"/>
+</p>
+
+### Write Back Module
+<p align="center">
+  <img src="assets/wb.png" 
+  alt="WB module" 
+  width="100%" 
+  height="100%"/>
+</p>
+
 
 ## Synthesis Utilization Report
 
